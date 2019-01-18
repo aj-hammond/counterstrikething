@@ -1,0 +1,10 @@
+Player1, team1, 234.5, 35.2, 35.2,
+B, asfasdf, 46.2, 35.2, 678.3,
+Finalsarebad, iamstressed, 36.2, 78.3, 74.2, 
+Tester, test, 63.2, 80.3, 678.2,
+Logic, he’s a rapper, 0.0, 0.0, 0.0,
+Brendon Urie, he is a singer, 1.1, 1.1, 1.1,
+Gabe Newell, Valve developer, 6.5, 43.2, 36.3
+Call of Duty, this is a video game, 356.8, 36.2, 58.3,
+Rocket league, I am very bad at it, 36.2, 36.4, 89.5,
+It’s always, sunny in Philadelphia, 3.4, 4.3, 3.2,
